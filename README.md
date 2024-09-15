@@ -1,8 +1,5 @@
 # MultiSelectComboBox
 Implement multi-select combo box in Qt<br>
-Here is the demo:<br>
-![image](https://raw.githubusercontent.com/namara-pipeline/MultiSelectComboBox/README/demo.gif)
-
 ## Screenshots
 <img src="https://raw.githubusercontent.com/namara-pipeline/MultiSelectComboBox/README/screenshot-001.png" alt="screenshot-001.png" title="">
 
